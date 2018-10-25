@@ -6,7 +6,6 @@ subtitle: Introduction for the SCU AI challenge.
 
 # Description
 ***
-
 As one of the most popular topics at the moment, the artificial intelligence(AI) technology, has been applied to all social circles as a reliable method. Motivated by the requirement of expanding the influence of AI technology, the SCUAI challenge is held to encourage students
 to engage in researching in AI.  
 
@@ -38,11 +37,13 @@ Sichuan University undergraduate students.
 2. (**For AI Creative Branch**) The teams need to send an email to the organizer (<scuaiclub@yeah.net>) to submit the entries with the name of **"branch+team+leader studentID+leader name"**.
 
 3. (**For AI Technology Branch**) The teams need to send an email to the organizer (<scuaiclub@yeah.net>) to submit the evaluation results. The evaluation result will be submitted as an attachment, which needs to be named as **"prediction.json"**, otherwise the submission will not be evaluated. The participating teams must submit the results with the name of **"branch+team+leader studentID+leader name"**. 
-3. Teams can be formed by 1 to 3 individuals. The maximum size of a team is 3 participants.Please ensure that the registration information is accurate and valid.
 
-4. (**Important!**) Student ID verification: In order to ensure the fairness of the competition, all teams must indicate their team name, student ID of members and members' name in the email content when submitting the results or entries.
+4. Teams can be formed by 1 to 3 individuals. The maximum size of a team is 3 participants.Please ensure that the registration information is accurate and valid.
 
-5. All participants should agree to be bound by the [《Official Competition Rules》](../entry_agreement).
+5. (**Important!**) Student ID verification: In order to ensure the fairness of the competition, all teams must indicate their team name, student ID of members and members' name in the email content when submitting the results or entries.
+
+6. All participants should agree to be bound by the [《Official Competition Rules》](../entry_agreement).
+
 
 ## Competition Timeline
 ***
