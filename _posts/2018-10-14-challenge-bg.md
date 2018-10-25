@@ -63,7 +63,7 @@ Sichuan University undergraduate students.
         1. The top 5 teams will be invited to presentation.
         2. The invited teams should prepare their presentation materials in advance, including but not limited to PPT, documents, etc.
         3. In the end, the final ranking of this branch will be decided based on the result of the presentation performance and the public vote.
-        
+
 - ### For AI Technology Branch
 
    - Stage 1: October 27, 2018 - November 10, 2018 
@@ -102,7 +102,7 @@ Sichuan University undergraduate students.
 
 - ### For AI Technology Branch 
 
-    Final ranking for this branch is based on the weighted combination of overall ranking, and participants' presentation performance determined by SCUAI Challenge judge panel.
+    Final ranking for this branch is based on the weighted combination of overall ranking and participants' presentation performance determined by SCUAI Challenge judge panel.
     
     overall_ranking_score = 20% \* Stage_1_score + 30% \* Stage_2_score + 50% \* Stage_3_score
 
