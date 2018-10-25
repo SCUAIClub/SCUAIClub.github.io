@@ -111,9 +111,9 @@ Sichuan University undergraduate students.
 ## Prizes
 ***
 - ### For AI Creative Branch 
-    - Gold Medal: ￥1000.00 and an Award Certificate (1 team)
-    - Silver Medal: Xiaomi Bluetooth Speaker and an Award Certificate (2 teams)
-    - Bronze Medal: Power Bank and an Award Certificate (5 teams)  
+    - Gold Medal: ￥1000.00, Xiaomi Bluetooth Speaker and an Award Certificate (1 team)
+    - Silver Medal: ￥500.00, a Mechanical Keyboard and an Award Certificate (2 teams)
+    - Bronze Medal: Headphone and an Award Certificate (5 teams)  
 
 - ### For AI Technology Branch 
     - Gold Medal: ￥3000.00 and an Award Certificate (1 team)
