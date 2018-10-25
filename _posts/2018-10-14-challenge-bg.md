@@ -46,6 +46,24 @@ Sichuan University undergraduate students.
 
 ## Competition Timeline
 ***
+
+- ### For AI Creative Branch 
+
+    - Stage 1: October 27, 2018 - December 1, 2018 
+
+        1. Participants can freely team up to sign up for the competition, which focuses on innovation and feasibility.
+        2. The teams are required to submit their entries by December 1st, including but not limited to PPT and the necessary documents to the organizer's by email(<scuaiclub@yeah.net>).
+        
+    - Stage 2: December 1, 2018 - December 7, 2018 
+
+        - Based on the PPT and other explanatory documents, all entries will be ranked according to total score weighted by the public vote and judges. The top 5 will enter the final presentation stage.
+
+    - Stage 3: December 13, 2018 - December 16, 2018 
+
+        1. The top 5 teams will be invited to presentation.
+        2. The invited teams should prepare their presentation materials in advance, including but not limited to PPT, documents, etc.
+        3. In the end, the final ranking of this branch will be decided based on the result of the presentation performance and the public vote.
+        
 - ### For AI Technology Branch
 
    - Stage 1: October 27, 2018 - November 10, 2018 
@@ -76,25 +94,11 @@ Sichuan University undergraduate students.
         3. The invited teams should prepare their presentation materials in advance, including but not limited to PPT, documents, algorithm codes, etc.
         4. The weighted total score of the overall ranking score and the presentation score will determine the final ranking of this branch.
 
-- ### For AI Creative Branch 
-
-    - Stage 1: October 27, 2018 - December 1, 2018 
-
-        1. Participants can freely team up to sign up for the competition, which focuses on innovation and feasibility.
-        2. The teams are required to submit their entries by December 1st, including but not limited to PPT and the necessary documents to the organizer's by email(<scuaiclub@yeah.net>).
-        
-    - Stage 2: December 1, 2018 - December 7, 2018 
-
-        - Based on the PPT and other explanatory documents, all entries will be ranked according to total score weighted by the public vote and judges. The top 5 will enter the final presentation stage.
-
-    - Stage 3: December 13, 2018 - December 16, 2018 
-
-        1. The top 5 teams will be invited to presentation.
-        2. The invited teams should prepare their presentation materials in advance, including but not limited to PPT, documents, etc.
-        3. In the end, the final ranking of this branch will be decided based on the result of the presentation performance and the public vote.
-
 ## Evaluation Metrics
 ***
+- ### For AI Creative Branch 
+
+    Based on the results of the public vote and the performance of the presentation, the total score will be weighted to determine the final ranking of this branch.
 
 - ### For AI Technology Branch 
 
@@ -102,22 +106,20 @@ Sichuan University undergraduate students.
     
     overall_ranking_score = 20% \* Stage_1_score + 30% \* Stage_2_score + 50% \* Stage_3_score
 
-- ### For AI Creative Branch 
-
-    Based on the results of the public vote and the performance of the presentation, the total score will be weighted to determine the final ranking of this branch.
 
 ## Prizes
 ***
+- ### For AI Creative Branch 
+    - Gold Medal: ￥1000.00 and an Award Certificate (1 team)
+    - Silver Medal: Xiaomi Bluetooth Speaker and an Award Certificate (2 teams)
+    - Bronze Medal: Power Bank and an Award Certificate (5 teams)  
 
 - ### For AI Technology Branch 
     - Gold Medal: ￥3000.00 and an Award Certificate (1 team)
     - Silver Medal: ￥2000.00 and an Award Certificate (2 teams)
     - Bronze Medal: ￥1000.00 and an Award Certificate (5 teams)
 
-- ### For AI Creative Branch 
-    - Gold Medal: ￥1000.00 and an Award Certificate (1 team)
-    - Silver Medal: Xiaomi Bluetooth Speaker and an Award Certificate (2 teams)
-    - Bronze Medal: Power Bank and an Award Certificate (5 teams)   
+ 
 
 
 <br><br>
