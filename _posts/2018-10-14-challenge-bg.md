@@ -4,7 +4,7 @@ title: Overview
 subtitle: Introduction for the SCU AI challenge.
 ---
 
-# Description
+## Description
 ***
 As one of the most popular topics at the moment, the artificial intelligence(AI) technology, has been applied to all social circles as a reliable method. Motivated by the requirement of expanding the influence of AI technology, the SCUAI challenge is held to encourage students
 to engage in researching in AI.  
